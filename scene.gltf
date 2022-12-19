@@ -3,168 +3,210 @@
     {
       "bufferView": 2,
       "componentType": 5126,
-      "count": 555,
+      "count": 161,
       "max": [
-        0.7652000188827515,
-        1.0,
-        0.7865530252456665
+        -1.8040239810943604,
+        26.605619430541992,
+        9.061488151550293
       ],
       "min": [
-        -0.765192985534668,
-        -1.0095900297164917,
-        -0.7865530252456665
+        -3.2601099014282227,
+        26.27977752685547,
+        7.60540246963501
       ],
       "type": "VEC3"
     },
     {
       "bufferView": 2,
-      "byteOffset": 6660,
+      "byteOffset": 1932,
       "componentType": 5126,
-      "count": 555,
+      "count": 161,
       "max": [
+        0.829848051071167,
         1.0,
-        0.9999082088470459,
-        0.9997783303260803
+        0.8298540115356445
       ],
       "min": [
-        -0.9999980926513672,
-        -0.9997614622116089,
-        -0.9968001246452332
+        -0.8298483490943909,
+        0.5579805970191956,
+        -0.8298443555831909
       ],
       "type": "VEC3"
     },
     {
-      "bufferView": 3,
-      "componentType": 5126,
-      "count": 555,
-      "max": [
-        0.9997775554656982,
-        0.999820351600647,
-        0.9963283538818359,
-        1.0
-      ],
-      "min": [
-        -0.9684851169586182,
-        -0.9943599700927734,
-        -0.9995228052139282,
-        -1.0
-      ],
-      "type": "VEC4"
-    },
-    {
       "bufferView": 1,
       "componentType": 5126,
-      "count": 555,
+      "count": 161,
       "max": [
-        0.984076976776123,
-        0.950465977191925
+        0.9025934934616089,
+        0.8933333158493042
       ],
       "min": [
-        0.006573469843715429,
-        0.026256699115037918
+        0.11592686176300049,
+        0.10666677355766296
       ],
       "type": "VEC2"
     },
     {
       "bufferView": 0,
       "componentType": 5125,
-      "count": 3006,
+      "count": 900,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3864,
+      "componentType": 5126,
+      "count": 322,
+      "max": [
+        -1.7079620361328125,
+        26.379457473754883,
+        9.157549858093262
+      ],
+      "min": [
+        -3.356170654296875,
+        25.385873794555664,
+        7.509342193603516
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 7728,
+      "componentType": 5126,
+      "count": 322,
+      "max": [
+        0.9972366690635681,
+        -0.06829191744327545,
+        0.9972366690635681
+      ],
+      "min": [
+        -0.9972367286682129,
+        -1.0,
+        -0.9972367882728577
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1288,
+      "componentType": 5126,
+      "count": 322,
+      "max": [
+        0.6250009536743164,
+        0.6884398460388184
+      ],
+      "min": [
+        0.375,
+        0.3125
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 3600,
+      "componentType": 5125,
+      "count": 714,
       "type": "SCALAR"
     }
   ],
   "asset": {
     "extras": {
-      "author": "Mateus Schwaab (https://sketchfab.com/Mehrus)",
+      "author": "Ole Gunnar Isager (https://sketchfab.com/FrenchBaguette)",
       "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
-      "source": "https://sketchfab.com/3d-models/apple-588278115f92444fab01aa121da0b244",
-      "title": "Apple"
+      "source": "https://sketchfab.com/3d-models/chocolate-muffin-school-project-e13bbc35eefa42938bda436fbb17c6f9",
+      "title": "Chocolate Muffin (School Project)"
     },
-    "generator": "Sketchfab-12.62.1",
+    "generator": "Sketchfab-12.64.0",
     "version": "2.0"
   },
   "bufferViews": [
     {
       "buffer": 0,
-      "byteLength": 12024,
+      "byteLength": 6456,
       "name": "floatBufferViews",
       "target": 34963
     },
     {
       "buffer": 0,
-      "byteLength": 4440,
-      "byteOffset": 12024,
+      "byteLength": 3864,
+      "byteOffset": 6456,
       "byteStride": 8,
       "name": "floatBufferViews",
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteLength": 13320,
-      "byteOffset": 16464,
+      "byteLength": 11592,
+      "byteOffset": 10320,
       "byteStride": 12,
-      "name": "floatBufferViews",
-      "target": 34962
-    },
-    {
-      "buffer": 0,
-      "byteLength": 8880,
-      "byteOffset": 29784,
-      "byteStride": 16,
       "name": "floatBufferViews",
       "target": 34962
     }
   ],
   "buffers": [
     {
-      "byteLength": 38664,
+      "byteLength": 21912,
       "uri": "scene.bin"
     }
   ],
   "images": [
     {
-      "uri": "textures/DefaultMaterial_baseColor.png"
-    },
-    {
-      "uri": "textures/DefaultMaterial_metallicRoughness.png"
-    },
-    {
-      "uri": "textures/DefaultMaterial_normal.jpeg"
+      "uri": "textures/Muffin_baseColor.png"
     }
   ],
   "materials": [
     {
-      "alphaMode": "BLEND",
       "doubleSided": true,
-      "name": "DefaultMaterial",
-      "normalTexture": {
-        "index": 2
-      },
-      "occlusionTexture": {
-        "index": 1
-      },
+      "name": "Muffin",
       "pbrMetallicRoughness": {
         "baseColorTexture": {
           "index": 0
         },
-        "metallicRoughnessTexture": {
-          "index": 1
-        }
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Paper",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.675,
+          0.658411,
+          0.627075,
+          1.0
+        ],
+        "metallicFactor": 0.0
       }
     }
   ],
   "meshes": [
     {
-      "name": "defaultMaterial",
+      "name": "pSphere2_Muffin_0",
       "primitives": [
         {
           "attributes": {
             "NORMAL": 1,
             "POSITION": 0,
-            "TANGENT": 2,
-            "TEXCOORD_0": 3
+            "TEXCOORD_0": 2
           },
-          "indices": 4,
+          "indices": 3,
           "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "pSphere2_Paper_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
           "mode": 4
         }
       ]
@@ -205,29 +247,40 @@
         0.0,
         0.0,
         0.0,
-        -4.371139006309477e-08,
-        0.999999999999999,
+        0.0,
+        1.0,
         0.0,
         0.0,
-        -0.999999999999999,
-        -4.371139006309477e-08,
+        -1.0,
+        0.0,
         0.0,
         0.0,
         0.0,
         0.0,
         1.0
       ],
-      "name": "Collada visual scene group"
+      "name": "657615d29e3c4c0d974995d27658d606.fbx"
     },
     {
       "children": [
         3
       ],
-      "name": "Cube.001"
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "name": "pSphere2"
     },
     {
       "mesh": 0,
-      "name": "defaultMaterial"
+      "name": "pSphere2_Muffin_0"
+    },
+    {
+      "mesh": 1,
+      "name": "pSphere2_Paper_0"
     }
   ],
   "samplers": [
@@ -251,14 +304,6 @@
     {
       "sampler": 0,
       "source": 0
-    },
-    {
-      "sampler": 0,
-      "source": 1
-    },
-    {
-      "sampler": 0,
-      "source": 2
     }
   ]
 }
