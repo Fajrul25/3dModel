@@ -1,0 +1,49 @@
+# Blender 3.5.0 MTL File: 'laptop.blend'
+# www.blender.org
+
+newmtl Phone_Alpha
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+Pr 0.500000
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd Phone_Alpha_baseColor.png
+map_d Phone_Alpha_baseColor.png
+
+newmtl Phone_Emission
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+Pr 0.500000
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd Phone_Emission_baseColor.png
+map_Ke Phone_Emission_emissive.png
+map_Bump -bm 1.000000 Phone_Emission_normal.png
+
+newmtl Phone_Main
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+Pr 0.500000
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd Phone_Main_baseColor.png
+map_Bump -bm 1.000000 Phone_Main_normal.png
